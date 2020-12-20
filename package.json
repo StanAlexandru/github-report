@@ -1,0 +1,31 @@
+{
+  "name": "github-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "D:\\dev\\learn\\javaBrains\\TypeScript\\node_modules\\.bin\\tsc && node out/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StanAlexandru/github-report.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "alex_jbm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StanAlexandru/github-report/issues"
+  },
+  "homepage": "https://github.com/StanAlexandru/github-report#readme",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.165",
+    "@types/request": "^2.48.5"
+  }
+}
